@@ -1,5 +1,6 @@
 # Work Day Scheduler Starter Code
-# homework-week-5
+
+# Homework-week-5
 
 
 * when you land on the page he time will be diplayed on the top with the current date and time
@@ -9,16 +10,16 @@
 # Depending on the time of day 
 The box is going to change color 
 
-*red if approching 
+* red if approching 
 
-*green if it is the current time 
+* green if it is the current time 
 
-*grey if it is past the deplayed time / end of the day 
+* grey if it is past the deplayed time / end of the day 
 
 # Saved data
 
-*when you enter data and click save the button the data you entered is saved
+* when you enter data and click save the button the data you entered is saved
 
-*when you refresh the page it is still displayed.
+* when you refresh the page it is still displayed.
 
 
