@@ -1,4 +1,3 @@
-# Work Day Scheduler Starter Code
 
 # Homework-week-5
 
